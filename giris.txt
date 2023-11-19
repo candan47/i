@@ -1,1 +1,1 @@
-KOtlin,android uygulamaları
+Merhaba,bu kitabın ilk sayfasının yazısı
